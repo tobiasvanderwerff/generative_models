@@ -7,6 +7,7 @@ __all__ = ['BabyAutoEncoder']
 import torch
 import torch.nn as nn
 
+# %% ../nbs/01_autoencoder.ipynb 5
 class BabyAutoEncoder(nn.Module):
     """Pretty much the simplest autoencoder you can imagine."""
 

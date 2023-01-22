@@ -18,6 +18,13 @@ See the notebooks in `nbs/` to get started. Table of contents:
 
 Run `nbdev_preview` to view documentation.
 
+e See the notebooks in `nbs/` to get started. Table of contents:
+
+- `nbs/00_data.ipynb`: setting up MNIST and Fashion MNIST
+- `nbs/01_autoencoder.ipynb`: first generative model, the autoencoder
+
+Run `nbdev_preview` to view documentation.
+
 ## Resources
 
 - cs231n Lecture 13: https://www.youtube.com/watch?v=5WoItGTWV54

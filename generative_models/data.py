@@ -7,6 +7,7 @@ __all__ = ['load_mnist']
 from torchvision import datasets
 from torchvision.transforms import ToTensor
 
+# %% ../nbs/00_data.ipynb 6
 def load_mnist():
     mnist_train = datasets.MNIST(root="datasets", train=True, 
                                 download=True, transform=ToTensor())
