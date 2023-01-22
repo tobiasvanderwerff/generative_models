@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "generative_models"
+  site-url: "https://tobiasvanderwerff.github.io/generative_models"
+  description: "Experimenting with generative neural networks"
+  repo-branch: main
+  repo-url: "https://github.com/tobiasvanderwerff/generative_models"
