@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tobiasvanderwerff.github.io/generative_models/index.html</loc>
+    <lastmod>2023-01-22T20:10:48.716Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tobiasvanderwerff.github.io/generative_models/data.html</loc>
+    <lastmod>2023-01-22T20:10:49.376Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tobiasvanderwerff.github.io/generative_models/autoencoder.html</loc>
+    <lastmod>2023-01-22T20:10:49.676Z</lastmod>
+  </url>
+</urlset>
