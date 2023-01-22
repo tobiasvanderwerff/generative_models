@@ -13,5 +13,4 @@ d = { 'settings': { 'branch': 'main',
                                                                                                                  'generative_models/autoencoder.py'),
                                                'generative_models.autoencoder.BabyAutoEncoder.forward': ( 'autoencoder.html#babyautoencoder.forward',
                                                                                                           'generative_models/autoencoder.py')},
-            'generative_models.core': { 'generative_models.core.foo': ('core.html#foo', 'generative_models/core.py'),
-                                        'generative_models.core.say_hello': ('core.html#say_hello', 'generative_models/core.py')}}}
+            'generative_models.data': {'generative_models.data.load_mnist': ('data.html#load_mnist', 'generative_models/data.py')}}}
