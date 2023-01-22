@@ -18,7 +18,7 @@
     "href": "index.html#resources",
     "title": "Generative models",
     "section": "Resources",
-    "text": "Resources\n\ncs231n Lecture 13: https://www.youtube.com/watch?v=5WoItGTWV54\nVAE paper (tough read): https://arxiv.org/abs/1312.6114\nDiffusion paper: https://arxiv.org/abs/1503.03585\nDeep learning book, chapter 14 (Autoencoders)\nDeep learning book, chapter 20.10.3 (Variational Autoencoders)"
+    "text": "Resources\n\ncs231n Lecture 13\nVAE paper (tough read)\nDiffusion paper\nDeep learning book, chapter 14 (Autoencoders)\nDeep learning book, chapter 20.10.3 (Variational Autoencoders)"
   },
   {
     "objectID": "index.html#todo",
