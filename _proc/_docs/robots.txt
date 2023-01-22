@@ -1,0 +1,1 @@
+Sitemap: https://tobiasvanderwerff.github.io/generative_models/sitemap.xml
